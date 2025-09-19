@@ -1,0 +1,28 @@
+{ pkgs, ... } : 
+
+{
+  environment.systemPackages = with pkgs; [
+     # cli
+     neovim
+     wget
+     git
+     git-credential-manager
+     gcc
+     xorg.xhost
+     
+     # gui 
+     kitty
+     gnome-calculator
+     gnome-system-monitor
+     nautilus
+     evince
+     loupe
+     syncthing
+     adw-gtk3
+     bleachbit
+     libreoffice-fresh
+     firefox
+  ];
+  
+  fonts.packages = with pkgs; [ nerd-fonts.jetbrains-mono ];
+}
