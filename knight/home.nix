@@ -13,7 +13,7 @@
 
  home.username = "knight";
  home.homeDirectory = "/home/knight";
- home.stateVersion = "25.05";
+ home.stateVersion = "25.11";
 
 
  programs.bash.enable = true;
