@@ -19,6 +19,7 @@
      evince
      loupe
      adw-gtk3
+     vscodium
      bleachbit
      libreoffice-fresh
      firefox
