@@ -15,5 +15,6 @@
     gnome-user-docs
     gnome-shell-extensions
     gnome-backgrounds
+    gnome-user-share
   ];
 }

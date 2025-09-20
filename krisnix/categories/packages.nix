@@ -12,12 +12,12 @@
      
      # gui 
      kitty
+     syncthing
      gnome-calculator
      gnome-system-monitor
      nautilus
      evince
      loupe
-     syncthing
      adw-gtk3
      bleachbit
      libreoffice-fresh

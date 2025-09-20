@@ -19,7 +19,7 @@
  programs.bash.enable = true;
  programs.neovim.enable = true;
  programs.kitty.enable = true;
+ services.syncthing.enable = true;
  programs.git.enable = true;
  programs.firefox.enable = true;
- services.syncthing.enable = true; 
 }
