@@ -2,7 +2,7 @@
  programs.bash.shellAliases = {
    ls = "ls --color --sort extension";
    nc = "sudo nvim /etc/nixos/";
-   nrs = "sudo nixos-rebuild switch --flake ~/Workstation/nix-dotfiles#krisnix";
+   nrs = "sudo nixos-rebuild switch";
    ncg = "sudo nix-collect-garbage -d";
  };
  programs.bash.initExtra = ''
