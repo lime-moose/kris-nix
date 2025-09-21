@@ -16,6 +16,7 @@
      gnome-calculator
      gnome-system-monitor
      nautilus
+     nautilus-open-any-terminal
      papers
      loupe
      adw-gtk3
