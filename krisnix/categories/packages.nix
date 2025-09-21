@@ -16,7 +16,7 @@
      gnome-calculator
      gnome-system-monitor
      nautilus
-     evince
+     papers
      loupe
      adw-gtk3
      vscodium
