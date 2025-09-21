@@ -24,6 +24,7 @@
      bleachbit
      libreoffice-fresh
      firefox
+     #distrobox
   ];
   
   fonts.packages = with pkgs; [ nerd-fonts.jetbrains-mono ];
