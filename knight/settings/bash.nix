@@ -1,6 +1,7 @@
 {
  programs.bash.shellAliases = {
    ls = "ls --color --sort extension";
+   nu = "cd /etc/nixos && sudo nix flake update";
    nc = "cd /etc/nixos && sudo nvim .";
    nrs = "sudo nixos-rebuild switch";
    ncg = "sudo nix-collect-garbage -d";
