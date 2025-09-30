@@ -8,6 +8,7 @@
     ./categories/packages.nix
     ./categories/user.nix
     ./categories/miscellaneous.nix
+    ./categories/virtualisation.nix
   ];
 
   boot.loader.systemd-boot.enable = true;

@@ -1,5 +1,5 @@
 {
   users.users.knight.isNormalUser = true;
-  users.users.knight.extraGroups = [ "wheel" "networkmanager" ];
+  users.users.knight.extraGroups = [ "wheel" "networkmanager" "libvirtd" ];
   users.users.knight.description = "Krishal"; 
 }
