@@ -9,6 +9,7 @@
     DisableMasterPasswordCreation = true;
     DisablePocket = true;
     DisplayBookmarksToolbar = "never";
+    DefaultDownloadDirectory = "\${home}/Workstation/downloads";
     OfferToSaveLogins = false;
     OfferToSaveLoginsDefault = false;
     PasswordManagerEnabled = false;
