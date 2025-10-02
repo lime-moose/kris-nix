@@ -20,7 +20,7 @@
      papers
      loupe
      adw-gtk3
-     vscodium
+     # vscodium
      bleachbit
      libreoffice-fresh
      firefox
