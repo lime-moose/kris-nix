@@ -25,6 +25,7 @@
      libreoffice-fresh
      firefox
      distrobox
+     iotas
   ];
   
   fonts.packages = with pkgs; [ nerd-fonts.jetbrains-mono ];
